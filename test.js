@@ -1,1 +1,1 @@
-var NAME = 'Zama';
+var NAME = 'Zama Khan';
